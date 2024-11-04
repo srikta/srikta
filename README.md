@@ -1,3 +1,4 @@
+![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/user-attachments/assets/b4f9dc6e-d2f2-40c2-a01d-2ecd80bd1c6f)
 <h1 align="center">Hi 👋, I'm Sourikta</h1>
 <h3 align="center">Passionate Data Enthusiast | Exploring Analytics, Visualization, NLP, Machine Learning and Deep Learning</h3>
 
