@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourikta</h1>
-<h3 align="center">Passionate Data Enthusiast | Exploring Analytics, Visualization, NLP, and Deep Learning</h3>
+<h3 align="center">Passionate Data Enthusiast | Exploring Analytics, Visualization, NLP, Machine Learning and Deep Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikta&label=Profile%20views&color=0e75b6&style=flat" alt="srikta" /> </p>
 
