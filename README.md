@@ -1,6 +1,6 @@
 ![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/user-attachments/assets/b4f9dc6e-d2f2-40c2-a01d-2ecd80bd1c6f)
-<h1 align="center">Hi 👋, I'm Sourikta</h1>
-<h3 align="center">PhD Scholar at BITS Pilani </h3>
+<h1 align="left">Hi 👋, I'm Sourikta</h1>
+<h3 align="left">PhD Scholar at BITS Pilani </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikta&label=Profile%20views&color=0e75b6&style=flat" alt="srikta" /> </p>
 
