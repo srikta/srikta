@@ -5,14 +5,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikta&label=Profile%20views&color=0e75b6&style=flat" alt="srikta" /> </p>
 
 
+- 🔭 I’m currently working on **Machine Learning & Image Processing**
 
-- 🔭 I’m currently working on **IMAGE PROCESSING**
+- 🌱 I’m currently learning **Remote Sensing and Earth Observation**
 
-- 🌱 I’m currently learning **REMOTE SENSING**
+- 👯 I’m looking to collaborate on **Renewable Energy Forecasting and AI Applications**
 
-- 👯 I’m looking to collaborate on **FORECASTING RENEWABLE ENERGY**
+- 🎓 PhD Scholar at **BITS Pilani**
 
+- 📚 Educator | 💻 Researcher
+
+- 📫 How to reach me: **[souriktanag@gmail.com](mailto:souriktanag@gmail.com)**
 - 📫 How to reach me **souriktanag@gamil.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
