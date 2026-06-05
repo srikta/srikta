@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Remote Sensing**
 
-- 👯 I’m looking to collaborate on **Renewable Energy Forecasting and AI Applications**
+- 👯 I’m looking to collaborate on **Renewable Energy Forecasting**
 
 - 🎓 PhD Scholar at **BITS Pilani**
 
