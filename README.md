@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning & Image Processing**
 
-- 🌱 I’m currently learning **Remote Sensing and Earth Observation**
+- 🌱 I’m currently learning **Remote Sensing**
 
 - 👯 I’m looking to collaborate on **Renewable Energy Forecasting and AI Applications**
 
