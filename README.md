@@ -15,7 +15,7 @@
 
 - 📚 Educator | 💻 Researcher
 
-- 📫 How to reach me **souriktanag@gamil.com**
+- 📫 Reach me at **souriktanag@gamil.com**
 
 
 
